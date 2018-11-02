@@ -20,4 +20,4 @@ Acto seguido dentro de la opción "Databases" al final aparecerá un nuevo item 
 
 Despliegue Tablas en Base de Datos:
 
-Una vez conectado darle clic derecho nuevamente y seleccionar la opción "Execute Command...", esto nos abrirá una nueva ventana en la cual podremos realizar consultas sobre la base de datos, en este caso copiaremos y pegaremos el script con las tablas y le daremos clic en la opción "Run SQL"
+Una vez conectado darle clic derecho nuevamente y seleccionar la opción "Execute Command...", esto nos abrirá una nueva ventana en la cual podremos realizar consultas sobre la base de datos, en este caso copiaremos y pegaremos el script con las tablas (archivo Script Creacion Tablas.sql) y le daremos clic en la opción "Run SQL"
